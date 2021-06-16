@@ -1,3 +1,5 @@
+## `OBS`: Projeto Desenvolvido para testar meus conhecimentos em requisições à uma API e trabalhar com processos assíncronos.
+
 ### Termos de acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
